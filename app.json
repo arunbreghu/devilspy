@@ -1,7 +1,7 @@
 {
-  "name": "Kochubot",
+  "name": "Arunz",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/1925c7a2f601539ccde7a.png",
+  "logo": "https://telegra.ph/file/dff63955dd46d9790d171.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -42,19 +42,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 18673980 83489514"
+      "value": "1602208555 749673781"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 18673980 83489514"
+      "value": "1602208555 749673781"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 18673980 83489514"
+      "value": "749673781 1602208555"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "https://t.me/shamilnelli"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -74,7 +74,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADfQADv7rGI0wxx1ORU7UzAg",
+      "value": "AAMCBQADGQEAAQlBZGBymT3LkFwZMA-6_LhGwdv0dNgMAAKEAwACEzWYV7zHhLNYfEHYT2Kdc3QAAwEAB20AA7E0AAIeBA",
       "required": false
     },
     "BMERNU_SCUT_SRELFTI": {
